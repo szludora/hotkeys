@@ -22,4 +22,4 @@
 |   `Ctrl` + `G`                |   Ugrás X sorba                       |
 |   `Ctrl` + `Z` / `Y`          |   Undo / Redo                         |
 |   `Ctrl` + `F2`               |   Fájl átnevezése az explorerben      |
-|   `Ctrl` + `F2`               |   
+|   `Ctrl` + `F2`               |   Összes egyező szó kijelölése fájlban
