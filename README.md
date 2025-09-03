@@ -21,4 +21,5 @@
 |   `Ctrl` + `H`                |   Keresés fájlban és kicserélés       |
 |   `Ctrl` + `G`                |   Ugrás X sorba                       |
 |   `Ctrl` + `Z` / `Y`          |   Undo / Redo                         |
-
+|   `Ctrl` + `F2`               |   Fájl átnevezése az explorerben      |
+|   `Ctrl` + `F2`               |   
